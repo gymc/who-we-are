@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src="https://drive.google.com/open?id=1X5Orm6jyo3GVH1LKqkWPaUd11KON-B_M" width="200px" />
+  <img alt="Gymc" title="Gymc" src="" width="200px" />
 </h1>
 
 <h3 align="center">
